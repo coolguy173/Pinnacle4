@@ -7,8 +7,3 @@ Your personalized investment planner.
 - Visualizes portfolios with **pie charts**.
 - Includes a **Research Center** to understand each option.
 
-## 🛠 Setup
-1. Clone this repo.
-2. Install dependencies:
-   ```bash
-   pip install streamlit matplotlib
